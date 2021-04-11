@@ -1,2 +1,2 @@
-# cleanup
+# Cleanup
 Detects duplicate files
